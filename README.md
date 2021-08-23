@@ -55,11 +55,11 @@ This is an experiment studying the effect of defacing in the MRI-MEG coregistrat
 Data for this experiment can be obtained under a data sharing agreement (se above). Code for this experiment is provided in the folder *Code for experiments 2 and 3*.
 
 The scripts in this folder related to this experiment are:
-1 s0_copyMRIs.m creates the file structure for the rest of the codes.
-2 s1_resliceMRIs.m reslices the images (with different levels of defacing) in 1-mm3 isitropic images with an identity voxel-to-real-world transformation matrix.
-3 s2_coregister.m coregisters the MRI image (from the fiducials or the scalp points, depending on the configuration) to the MEG head points.
-4 s3a_statsExp2.m calculates the statistics for the different defacing methods.
-5 s3b_plotsExp2.m creates the figures in the paper.
+1. s0_copyMRIs.m creates the file structure for the rest of the codes.
+2. s1_resliceMRIs.m reslices the images (with different levels of defacing) in 1-mm3 isitropic images with an identity voxel-to-real-world transformation matrix.
+3. s2_coregister.m coregisters the MRI image (from the fiducials or the scalp points, depending on the configuration) to the MEG head points.
+4. s3a_statsExp2.m calculates the statistics for the different defacing methods.
+5. s3b_plotsExp2.m creates the figures in the paper.
 
 ## Experiment 3
 
@@ -68,9 +68,9 @@ This is an experiment studying the effect of defacing in the definition of the i
 Data for this experiment can be obtained under a data sharing agreement (se above). Code for this experiment is provided in the folder *Code for experiments 2 and 3*.
 
 The scripts in this folder related to this experiment are:
-1 s0_copyMRIs.m creates the file structure for the rest of the codes.
-2 s1_resliceMRIs.m reslices the images (with different levels of defacing) in 1-mm3 isitropic images with an identity voxel-to-real-world transformation matrix.
-3 s2_coregister.m generates (when configured to use SPM) the inner skull, outer skull and scalp meshes for forward modelling.
-4 s4a_summaryExp3.m generates a summary of the error in the creation of the inner skull meshes.
-5 s4b_statsExp3.m calculates the statistics for the different defacing methods.
-6 s4c_plotsExp3.m creates the figures in the paper.
+1. s0_copyMRIs.m creates the file structure for the rest of the codes.
+2. s1_resliceMRIs.m reslices the images (with different levels of defacing) in 1-mm3 isitropic images with an identity voxel-to-real-world transformation matrix.
+3. s2_coregister.m generates (when configured to use SPM) the inner skull, outer skull and scalp meshes for forward modelling.
+4. s4a_summaryExp3.m generates a summary of the error in the creation of the inner skull meshes.
+5. s4b_statsExp3.m calculates the statistics for the different defacing methods.
+6. s4c_plotsExp3.m creates the figures in the paper.
