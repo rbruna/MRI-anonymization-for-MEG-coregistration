@@ -8,10 +8,10 @@ This repository contains the code for the aforemention research work.
 The code here requires (and corrects) several publicly avaiable toolboxes.
 
 The required toolboxes are:
-* NIfTI tools (https://es.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
-* SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
-* OSL (https://ohba-analysis.github.io/osl-docs/)
-* NotBoxPlot (https://es.mathworks.com/matlabcentral/fileexchange/26508-notboxplot)
+* NIfTI tools (https://es.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image).
+* SPM12 (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/).
+* OSL (https://ohba-analysis.github.io/osl-docs/).
+* NotBoxPlot (https://es.mathworks.com/matlabcentral/fileexchange/26508-notboxplot).
 
 Please, note that OSL requires SPM12 to be placed in a very specific folder. The recommended placing for these and according to the following tree:
 
