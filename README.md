@@ -31,11 +31,9 @@ Nota that other toolboxes might be requiered (e.g., OSL requires FSL to work).
 
 # Prerequisites II - Data
 
-To replicate the results in the paper, you will require the BioFIND data set. Unfortunately, due to privacy issues (thus the need of this work) we cannot share this data publicly. We can, however, share this data in the context of a collaboration / data sharing agreement.
+The MEG data and de-faced MRIs are available freely through the Dementia Platform UK (DPUK): https://portal.dementiasplatform.uk/Apply
 
-Todo so, you must contact us directly.
-
-The deanonimyzed data can be access through the DPUK sytstem: https://portal.dementiasplatform.uk/Apply
+For the non-defaced MRIs, you will need to request them from Ricardo Bruña Fernandez (ricardo.bruna@ctb.upm.es), which will require a collaboration / data sharing agreement, in order to comply with consent given by participants.
 
 
 # Repository structure
