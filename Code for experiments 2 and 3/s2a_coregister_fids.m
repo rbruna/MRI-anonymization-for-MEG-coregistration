@@ -8,11 +8,6 @@ bids_dir = '../data/exp2and3';
 
 % Assumes all types of T1 are coreg (takes fiducials from intact only)
 
-% TODO:
-% go through plots again with nose points
-% check headpoints-scalp error for fids only?
-% Need refMRI for SPM-Rhino comparison?
-
 % sub-Sub0307_ses-meg1_T1w.nii - low positioning, but coreg seems ok,so keep
 
 % Subjects with 3 high fid error
